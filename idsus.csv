@@ -1,0 +1,855 @@
+cod_ibge;UF;Município;Região de saúde;Grupo homogêneo;IDSUS;Índice de acesso ao SUS;Índice de efetividade do SUS 
+310010;MG;Abadia dos Dourados;Patrocínio / Monte Carmelo;5;6 a 6,9;6.04;7.62
+310020;MG;Abaeté;Sete Lagoas;3;6 a 6,9;6.33;6.57
+310030;MG;Abre Campo;Manhuaçu;6;5 a 5,9;4.93;6.11
+310040;MG;Acaiaca;Ponte Nova;6;7 a 7,9;6.94;7.69
+310050;MG;Açucena;Ipatinga;6;6 a 6,9;5.5;8.52
+310060;MG;Água Boa;Santa Maria do Suaçuí;6;4 a 4,9;3.46;7.65
+310070;MG;Água Comprida;Uberaba;5;6 a 6,9;7.02;6.63
+310080;MG;Aguanil;Campo Belo;5;5 a 5,9;5.78;5.15
+310090;MG;Águas Formosas;Águas Formosas;4;5 a 5,9;4.92;8.17
+310100;MG;Águas Vermelhas;Pedra azul;6;5 a 5,9;4.91;7.78
+310110;MG;Aimorés;Resplendor;3;5 a 5,9;5.6;6.23
+310120;MG;Aiuruoca;São Lourenço;5;6 a 6,9;6.38;6.17
+310130;MG;Alagoa;São Lourenço;6;6 a 6,9;6.72;6.69
+310140;MG;Albertina;Poços de Caldas;5;6 a 6,9;5.64;6.93
+310150;MG;Além Paraíba;Além  Paraíba;3;5 a 5,9;5.32;6.58
+310160;MG;Alfenas;Alfenas / Machado;3;6 a 6,9;5.93;7.23
+310163;MG;Alfredo Vasconcelos;Barbacena;5;6 a 6,9;5.91;6.83
+310170;MG;Almenara;Almenara/Jacinto;4;5 a 5,9;4.65;6.51
+310180;MG;Alpercata;Governador Valadares;6;5 a 5,9;4.89;7.31
+310190;MG;Alpinópolis;Passos;5;7 a 7,9;7.61;7.55
+310200;MG;Alterosa;Alfenas / Machado;5;6 a 6,9;6.83;6.6
+310205;MG;Alto Caparaó;Manhuaçu;6;6 a 6,9;6.24;7.3
+315350;MG;Alto Jequitibá;Manhuaçu;6;6 a 6,9;6.54;7.53
+310210;MG;Alto Rio Doce;Barbacena;6;6 a 6,9;5.69;7.92
+310220;MG;Alvarenga;Resplendor;6;5 a 5,9;4.9;7.46
+310230;MG;Alvinópolis;Ponte Nova;6;7 a 7,9;7.1;6.96
+310240;MG;Alvorada de Minas;Serro;6;7 a 7,9;6.93;9.48
+310250;MG;Amparo do Serra;Ponte Nova;6;6 a 6,9;6.88;7.28
+310260;MG;Andradas;Poços de Caldas;3;5 a 5,9;4.71;6.07
+310280;MG;Andrelândia;Lima Duarte;6;5 a 5,9;4.92;6.14
+310285;MG;Angelândia;Teófilo Otoni / Malacacheta;6;5 a 5,9;4.94;8.35
+310290;MG;Antônio Carlos;Barbacena;5;6 a 6,9;6.51;6.56
+310300;MG;Antônio Dias;Coronel Fabriciano/Timóteo;6;6 a 6,9;5.28;7.8
+310310;MG;Antônio Prado de Minas;Muriaé;6;6 a 6,9;7.04;6.38
+310320;MG;Araçaí;Sete Lagoas;5;6 a 6,9;6.1;7.85
+310330;MG;Aracitaba;Santos Dumont;5;6 a 6,9;6.66;6.18
+310340;MG;Araçuaí;Araçuaí;4;4 a 4,9;2.98;7.49
+310350;MG;Araguari;Uberlândia / Araguari;3;4 a 4,9;4.25;6.58
+310360;MG;Arantina;Lima Duarte;6;5 a 5,9;5.65;6.28
+310370;MG;Araponga;Viçosa;6;7 a 7,9;6.59;8.12
+310375;MG;Araporã;Uberlândia / Araguari;5;5 a 5,9;5.31;5.8
+310380;MG;Arapuá;São Gotardo;5;5 a 5,9;5.37;7.33
+310390;MG;Araújos;Divinópolis;5;5 a 5,9;4.85;8.1
+310400;MG;Araxá;Araxá;3;5 a 5,9;5.77;5.65
+310410;MG;Arceburgo;Guaxupé;5;6 a 6,9;5.58;7.52
+310420;MG;Arcos;Lagoa da Prata/Sto Ant do Monte;3;5 a 5,9;6.05;5.86
+310430;MG;Areado;Alfenas / Machado;5;4 a 4,9;4.31;6.54
+310440;MG;Argirita;Leopoldina / Cataguases;5;6 a 6,9;6.15;7.42
+310445;MG;Aricanduva;Turmalina/Minas Novas/Capelinha;6;6 a 6,9;6.16;8.75
+310450;MG;Arinos;Unaí;6;5 a 5,9;4.29;7.47
+310460;MG;Astolfo Dutra;Leopoldina / Cataguases;5;5 a 5,9;6.35;4.89
+310470;MG;Ataléia;Teófilo Otoni / Malacacheta;6;5 a 5,9;4.66;7.79
+310480;MG;Augusto de Lima;Curvelo;6;7 a 7,9;6.9;8.26
+310490;MG;Baependi;São Lourenço;4;6 a 6,9;6.1;5.76
+310500;MG;Baldim;Sete Lagoas;6;6 a 6,9;5.84;8.99
+310510;MG;Bambuí;Formiga;3;5 a 5,9;5.44;6.4
+310520;MG;Bandeira;Almenara/Jacinto;6;5 a 5,9;4.35;8.73
+310530;MG;Bandeira do Sul;Alfenas / Machado;5;2,5 a 3,9;2.86;5.94
+310540;MG;Barão de Cocais;Itabira;3;6 a 6,9;6.79;6.47
+310550;MG;Barão de Monte Alto;Muriaé;6;6 a 6,9;6.63;6.79
+310560;MG;Barbacena;Barbacena;2;5 a 5,9;5.44;6.49
+310570;MG;Barra Longa;Ponte Nova;6;6 a 6,9;5.15;9.03
+310590;MG;Barroso;São João Del Rei;3;6 a 6,9;6.4;6.77
+310600;MG;Bela Vista de Minas;João Monlevade;6;6 a 6,9;5.09;8.7
+310610;MG;Belmiro Braga;Juiz de Fora;5;6 a 6,9;5.97;8.24
+310620;MG;Belo Horizonte;Belo Horizonte/ Nova Lima/ Caeté ;1;6 a 6,9;5.79;7.89
+310630;MG;Belo Oriente;Ipatinga;5;6 a 6,9;6.01;7.07
+310640;MG;Belo Vale;Belo Horizonte/ Nova Lima/ Caeté ;6;5 a 5,9;5.51;6.46
+310650;MG;Berilo;Araçuaí;6;6 a 6,9;5.44;8.19
+310665;MG;Berizal;Taiobeiras;6;5 a 5,9;4.87;8.23
+310660;MG;Bertópolis;Águas Formosas;6;6 a 6,9;5.87;8.13
+310670;MG;Betim;Betim;2;5 a 5,9;4.87;7.87
+310680;MG;Bias Fortes;Lima Duarte;6;6 a 6,9;5.5;8.79
+310690;MG;Bicas;São João Nepomuceno / bicas;5;5 a 5,9;4.77;7.09
+310700;MG;Biquinhas;Sete Lagoas;5;7 a 7,9;6.93;8.33
+310710;MG;Boa Esperança;Três Pontas;3;6 a 6,9;5.78;6.91
+310720;MG;Bocaina de Minas;Lima Duarte;6;2,5 a 3,9;3.04;5.63
+310730;MG;Bocaiúva;Bocaiúva;4;6 a 6,9;5.15;8.66
+310740;MG;Bom Despacho;Bom Despacho;3;6 a 6,9;5.26;8.5
+310750;MG;Bom Jardim de Minas;Lima Duarte;6;5 a 5,9;5.35;6.24
+310760;MG;Bom Jesus da Penha;Passos;5;7 a 7,9;6.98;7.43
+310770;MG;Bom Jesus do Amparo;Itabira;6;5 a 5,9;3.88;8.58
+310780;MG;Bom Jesus do Galho;Caratinga;6;4 a 4,9;4.71;5.35
+310790;MG;Bom Repouso;Pouso Alegre;5;6 a 6,9;5.47;7.54
+310800;MG;Bom Sucesso;São João Del Rei;5;6 a 6,9;6.65;6.54
+310810;MG;Bonfim;Betim;6;7 a 7,9;6.42;9.27
+310820;MG;Bonfinópolis de Minas;Unaí;5;5 a 5,9;4.3;7.81
+310825;MG;Bonito de Minas;Januária;6;5 a 5,9;3.91;8.39
+310830;MG;Borda da Mata;Pouso Alegre;5;5 a 5,9;5.04;5.79
+310840;MG;Botelhos;Alfenas / Machado;5;4 a 4,9;3.25;6.53
+310850;MG;Botumirim;Francisco Sá;6;5 a 5,9;4.67;8.69
+310855;MG;Brasilândia de Minas;João Pinheiro;5;5 a 5,9;4.25;8.41
+310860;MG;Brasília de Minas;Brasília de Minas/São Francisco;4;6 a 6,9;5.54;7.62
+310870;MG;Brás Pires;Ubá;6;6 a 6,9;7.34;5.44
+310880;MG;Braúnas;Ipatinga;5;6 a 6,9;5.88;8.08
+310890;MG;Brazópolis;Itajubá;6;5 a 5,9;5.23;6.6
+310900;MG;Brumadinho;Betim;3;6 a 6,9;6.33;7.85
+310910;MG;Bueno Brandão;Pouso Alegre;5;5 a 5,9;5.26;7.47
+310920;MG;Buenópolis;Curvelo;6;6 a 6,9;5.84;7.66
+310925;MG;Bugre;Ipatinga;6;6 a 6,9;5.72;8.11
+310930;MG;Buritis;Unaí;5;5 a 5,9;4.83;6.41
+310940;MG;Buritizeiro;Pirapora;6;5 a 5,9;5.33;6.83
+310945;MG;Cabeceira Grande;Unaí;5;5 a 5,9;4.44;7.85
+310950;MG;Cabo Verde;Guaxupé;5;5 a 5,9;4.61;6.88
+310960;MG;Cachoeira da Prata;Sete Lagoas;5;7 a 7,9;6.98;7.57
+310970;MG;Cachoeira de Minas;Pouso Alegre;5;5 a 5,9;4.57;6.57
+310270;MG;Cachoeira de Pajeú;Pedra azul;6;5 a 5,9;4.8;8.49
+310980;MG;Cachoeira Dourada;Ituiutaba;5;6 a 6,9;6.88;6.66
+310990;MG;Caetanópolis;Sete Lagoas;5;6 a 6,9;5.8;8.22
+311000;MG;Caeté;Belo Horizonte/ Nova Lima/ Caeté ;4;5 a 5,9;4.09;8.52
+311010;MG;Caiana;Carangola;6;6 a 6,9;6.52;6.68
+311020;MG;Cajuri;Viçosa;6;7 a 7,9;7.53;7.29
+311030;MG;Caldas;Poços de Caldas;5;5 a 5,9;4.88;6.03
+311040;MG;Camacho;Campo Belo;5;5 a 5,9;5.97;5.64
+311050;MG;Camanducaia;Pouso Alegre;3;5 a 5,9;5.07;6.36
+311060;MG;Cambuí;Pouso Alegre;3;5 a 5,9;4.87;5.99
+311070;MG;Cambuquira;Três Corações;5;6 a 6,9;5.93;7.86
+311080;MG;Campanário;Itambacuri;6;6 a 6,9;5.6;7.79
+311090;MG;Campanha;Três Corações;3;6 a 6,9;5.72;6.83
+311100;MG;Campestre;Alfenas / Machado;5;2,5 a 3,9;3.89;4.14
+311110;MG;Campina Verde;Ituiutaba;3;5 a 5,9;5.92;4
+311115;MG;Campo Azul;Brasília de Minas/São Francisco;6;5 a 5,9;4.34;8.66
+311120;MG;Campo Belo;Campo Belo;4;5 a 5,9;5.4;5.21
+311130;MG;Campo do Meio;Alfenas / Machado;6;6 a 6,9;5.61;7.55
+311140;MG;Campo Florido;Uberaba;5;5 a 5,9;5.03;6.97
+311150;MG;Campos Altos;Araxá;5;6 a 6,9;5.93;6.97
+311160;MG;Campos Gerais;Alfenas / Machado;4;5 a 5,9;4.08;8.54
+311170;MG;Canaã;Viçosa;6;6 a 6,9;6.55;6.99
+311180;MG;Canápolis;Ituiutaba;5;5 a 5,9;5.57;5.27
+311190;MG;Cana Verde;Campo Belo;6;5 a 5,9;5.73;6.46
+311200;MG;Candeias;Campo Belo;5;6 a 6,9;6.33;5.57
+311205;MG;Cantagalo;Peçanha/São João Evangelista;6;6 a 6,9;6.28;8.25
+311210;MG;Caparaó;Carangola;6;6 a 6,9;6.85;6.59
+311220;MG;Capela Nova;Barbacena;6;6 a 6,9;6.14;6.35
+311230;MG;Capelinha;Turmalina/Minas Novas/Capelinha;4;6 a 6,9;6.61;7.69
+311240;MG;Capetinga;Cassia;5;5 a 5,9;4.56;7.05
+311250;MG;Capim Branco;Sete Lagoas;5;6 a 6,9;6.1;8
+311260;MG;Capinópolis;Ituiutaba;5;6 a 6,9;6.99;6.2
+311265;MG;Capitão Andrade;Governador Valadares;6;5 a 5,9;5.08;7.79
+311270;MG;Capitão Enéas;Francisco Sá;5;6 a 6,9;5.22;8.24
+311280;MG;Capitólio;Piumhi;5;7 a 7,9;7.16;7.36
+311290;MG;Caputira;Manhuaçu;6;5 a 5,9;5.05;7.85
+311300;MG;Caraí;Padre Paraíso;6;5 a 5,9;4.49;7.33
+311310;MG;Caranaíba;Conselheiro Lafaiete;6;5 a 5,9;5.38;6.81
+311320;MG;Carandaí;Barbacena;5;5 a 5,9;5.48;5.62
+311330;MG;Carangola;Carangola;4;5 a 5,9;5.74;6.37
+311340;MG;Caratinga;Caratinga;4;5 a 5,9;4.5;7.51
+311350;MG;Carbonita;Diamantina;6;6 a 6,9;6.38;7.85
+311360;MG;Careaçu;Pouso Alegre;5;6 a 6,9;6.76;6.71
+311370;MG;Carlos Chagas;Nanuque;6;5 a 5,9;5.21;6.94
+311380;MG;Carmésia;Guanhães;6;7 a 7,9;7.04;9.48
+311390;MG;Carmo da Cachoeira;Três Corações;6;6 a 6,9;6.14;7.91
+311400;MG;Carmo da Mata;Oliveira/Santo Antônio do Amparo;6;5 a 5,9;4.94;6.29
+311410;MG;Carmo de Minas;São Lourenço;6;5 a 5,9;5.74;6.09
+311420;MG;Carmo do Cajuru;Divinópolis;5;6 a 6,9;5.49;7.35
+311430;MG;Carmo do Paranaíba;São Gotardo;3;5 a 5,9;5.41;6.42
+311440;MG;Carmo do Rio Claro;Passos;3;5 a 5,9;5.33;6.72
+311450;MG;Carmópolis de Minas;Oliveira/Santo Antônio do Amparo;5;5 a 5,9;5.63;5.91
+311455;MG;Carneirinho;Frutal / Iturama;5;5 a 5,9;6.18;5.19
+311460;MG;Carrancas;Lavras;5;6 a 6,9;6.69;7.73
+311470;MG;Carvalhópolis;Alfenas / Machado;5;6 a 6,9;5.97;6.6
+311480;MG;Carvalhos;São Lourenço;6;6 a 6,9;6.01;5.98
+311490;MG;Casa Grande;Conselheiro Lafaiete;5;5 a 5,9;4.95;6.7
+311500;MG;Cascalho Rico;Uberlândia / Araguari;5;5 a 5,9;5.79;6.21
+311510;MG;Cássia;Cassia;3;6 a 6,9;5.95;6.31
+311530;MG;Cataguases;Leopoldina / Cataguases;3;6 a 6,9;6.45;5.38
+311535;MG;Catas Altas;Itabira;5;7 a 7,9;6.83;7.96
+311540;MG;Catas Altas da Noruega;Conselheiro Lafaiete;6;5 a 5,9;4.38;6.88
+311545;MG;Catuji;Padre Paraíso;6;6 a 6,9;5.38;8.05
+311547;MG;Catuti;Janaúba/Monte Azul;6;6 a 6,9;5.54;7.67
+311550;MG;Caxambu;São Lourenço;4;4 a 4,9;4.76;4.98
+311560;MG;Cedro do Abaeté;Sete Lagoas;5;6 a 6,9;6.3;7.88
+311570;MG;Central de Minas;Mantena;6;5 a 5,9;4.88;5.89
+311580;MG;Centralina;Ituiutaba;5;5 a 5,9;5.02;6.7
+311590;MG;Chácara;Juiz de Fora;5;7 a 7,9;7.03;8.28
+311600;MG;Chalé;Manhuaçu;6;5 a 5,9;5.56;6.14
+311610;MG;Chapada do Norte;Turmalina/Minas Novas/Capelinha;6;6 a 6,9;5.84;8.53
+311615;MG;Chapada Gaúcha;Unaí;6;5 a 5,9;3.78;8.99
+311620;MG;Chiador;Juiz de Fora;5;6 a 6,9;5.45;8.27
+311630;MG;Cipotânea;Barbacena;6;6 a 6,9;5.91;7.75
+311640;MG;Claraval;Cassia;5;6 a 6,9;5.62;8.24
+311650;MG;Claro dos Poções;Montes Claros ;6;6 a 6,9;6.22;8.68
+311660;MG;Cláudio;Divinópolis;3;6 a 6,9;6.08;5.8
+310000;MG;Código do IBGE para múnicípio ignorado no estado;;;;;
+311670;MG;Coimbra;Ubá;6;7 a 7,9;7.32;6.73
+311680;MG;Coluna;Diamantina;6;5 a 5,9;5.08;7.91
+311690;MG;Comendador Gomes;Frutal / Iturama;5;5 a 5,9;5.52;6.59
+311700;MG;Comercinho;Itaobim;6;5 a 5,9;4.45;8.75
+311710;MG;Conceição da Aparecida;Alfenas / Machado;5;5 a 5,9;5.08;5.99
+311520;MG;Conceição da Barra de Minas;São João Del Rei;6;6 a 6,9;6;7.37
+311730;MG;Conceição das Alagoas;Uberaba;5;6 a 6,9;6.36;5.69
+311720;MG;Conceição das Pedras;Itajubá;5;6 a 6,9;6.86;6.45
+311740;MG;Conceição de Ipanema;Manhuaçu;6;5 a 5,9;5.53;6.1
+311750;MG;Conceição do Mato Dentro;Serro;6;5 a 5,9;4.72;8.56
+311760;MG;Conceição do Pará;Pará de Minas;5;6 a 6,9;6.41;7.03
+311770;MG;Conceição do Rio Verde;São Lourenço;5;5 a 5,9;5.47;6.31
+311780;MG;Conceição dos Ouros;Pouso Alegre;5;4 a 4,9;4.35;6.4
+311783;MG;Cônego Marinho;Januária;6;6 a 6,9;5.75;8.28
+311787;MG;Confins;Vespasiano;5;5 a 5,9;5.45;6.44
+311790;MG;Congonhal;Pouso Alegre;5;5 a 5,9;5.05;7
+311800;MG;Congonhas;Congonhas;3;5 a 5,9;4.75;6.61
+311810;MG;Congonhas do Norte;Diamantina;6;6 a 6,9;5.72;9.31
+311820;MG;Conquista;Uberaba;5;6 a 6,9;6.2;6.42
+311830;MG;Conselheiro Lafaiete;Conselheiro Lafaiete;3;5 a 5,9;5.37;4.73
+311840;MG;Conselheiro Pena;Resplendor;5;5 a 5,9;4.89;6.84
+311850;MG;Consolação;Itajubá;6;6 a 6,9;6.56;7.76
+311860;MG;Contagem;Contagem;2;5 a 5,9;4.67;7.89
+311870;MG;Coqueiral;Três Pontas;5;6 a 6,9;6.24;7.69
+311880;MG;Coração de Jesus;Coração de Jesus;4;5 a 5,9;4.85;8.29
+311890;MG;Cordisburgo;Sete Lagoas;6;6 a 6,9;4.86;8.81
+311900;MG;Cordislândia;Varginha;5;5 a 5,9;5.26;6.86
+311910;MG;Corinto;Curvelo;6;6 a 6,9;5.2;8.22
+311920;MG;Coroaci;Governador Valadares;6;5 a 5,9;4.41;8.33
+311930;MG;Coromandel;Patrocínio / Monte Carmelo;3;5 a 5,9;5.39;5.39
+311940;MG;Coronel Fabriciano;Coronel Fabriciano/Timóteo;3;5 a 5,9;4.69;7.05
+311950;MG;Coronel Murta;Araçuaí;6;6 a 6,9;5.3;8.75
+311960;MG;Coronel Pacheco;Juiz de Fora;5;7 a 7,9;7.6;7.3
+311970;MG;Coronel Xavier Chaves;São João Del Rei;5;6 a 6,9;5.68;7
+311980;MG;Córrego Danta;Formiga;5;6 a 6,9;5.8;7.84
+311990;MG;Córrego do Bom Jesus;Pouso Alegre;5;6 a 6,9;6.24;6.13
+311995;MG;Córrego Fundo;Formiga;5;6 a 6,9;6.16;6.11
+312000;MG;Córrego Novo;Coronel Fabriciano/Timóteo;6;5 a 5,9;5.03;7.76
+312010;MG;Couto de Magalhães de Minas;Diamantina;6;6 a 6,9;5.13;8.48
+312015;MG;Crisólita;Águas Formosas;6;6 a 6,9;5.02;8.51
+312020;MG;Cristais;Campo Belo;5;5 a 5,9;5.6;5.88
+312030;MG;Cristália;Francisco Sá;6;6 a 6,9;5.25;8.3
+312040;MG;Cristiano Otoni;Conselheiro Lafaiete;6;5 a 5,9;5.84;5.7
+312050;MG;Cristina;São Lourenço;6;6 a 6,9;5.73;7.16
+312060;MG;Crucilândia;Betim;6;6 a 6,9;5.68;7.62
+312070;MG;Cruzeiro da Fortaleza;Patos de Minas;5;6 a 6,9;5.69;8.16
+312080;MG;Cruzília;São Lourenço;4;6 a 6,9;6.87;6.08
+312083;MG;Cuparaque;Resplendor;6;5 a 5,9;5.1;6.99
+312087;MG;Curral de Dentro;Taiobeiras;6;6 a 6,9;5.13;8.45
+312090;MG;Curvelo;Curvelo;3;6 a 6,9;5.49;7.95
+312100;MG;Datas;Diamantina;6;6 a 6,9;5.99;8.31
+312110;MG;Delfim Moreira;Itajubá;6;6 a 6,9;5.71;7.57
+312120;MG;Delfinópolis;Cassia;5;6 a 6,9;6.8;5.63
+312125;MG;Delta;Uberaba;5;6 a 6,9;5.95;7.5
+312130;MG;Descoberto;São João Nepomuceno / bicas;5;5 a 5,9;5.6;5.66
+312140;MG;Desterro de Entre Rios;Congonhas;5;6 a 6,9;6.06;7.13
+312150;MG;Desterro do Melo;Barbacena;6;6 a 6,9;6.42;7.52
+312160;MG;Diamantina;Diamantina;4;5 a 5,9;5.1;7.93
+312170;MG;Diogo de Vasconcelos;Ponte Nova;6;6 a 6,9;5.71;8.75
+312180;MG;Dionísio;Coronel Fabriciano/Timóteo;6;5 a 5,9;3.95;7.69
+312190;MG;Divinésia;Ubá;6;7 a 7,9;7.25;6.5
+312200;MG;Divino;Carangola;6;6 a 6,9;6.55;6.72
+312210;MG;Divino das Laranjeiras;Mantena;6;5 a 5,9;5.39;6.83
+312220;MG;Divinolândia de Minas;Governador Valadares;6;5 a 5,9;4.42;8.85
+312230;MG;Divinópolis;Divinópolis;2;5 a 5,9;5.22;6.77
+312235;MG;Divisa Alegre;Pedra azul;6;5 a 5,9;4.85;7.39
+312240;MG;Divisa Nova;Alfenas / Machado;5;5 a 5,9;5.15;7.07
+312245;MG;Divisópolis;Pedra azul;6;5 a 5,9;4.84;7.42
+312247;MG;Dom Bosco;Unaí;5;4 a 4,9;3.84;7.01
+312250;MG;Dom Cavati;Ipatinga;6;5 a 5,9;5.03;5.58
+312260;MG;Dom Joaquim;Guanhães;6;6 a 6,9;6.18;8.52
+312270;MG;Dom Silvério;Ponte Nova;6;6 a 6,9;6.41;6.3
+312280;MG;Dom Viçoso;São Lourenço;6;5 a 5,9;5.49;5.33
+312290;MG;Dona Eusébia;Leopoldina / Cataguases;5;6 a 6,9;6.24;5.64
+312300;MG;Dores de Campos;São João Del Rei;5;5 a 5,9;4.73;6.48
+312310;MG;Dores de Guanhães;Guanhães;6;5 a 5,9;4.91;8.6
+312320;MG;Dores do Indaiá;Bom Despacho;5;6 a 6,9;5.34;7.69
+312330;MG;Dores do Turvo;Ubá;6;6 a 6,9;6.12;6.61
+312340;MG;Doresópolis;Piumhi;5;6 a 6,9;6.54;7.54
+312350;MG;Douradoquara;Patrocínio / Monte Carmelo;5;5 a 5,9;5.14;6.49
+312352;MG;Durandé;Manhuaçu;6;6 a 6,9;6.03;7.74
+312360;MG;Elói Mendes;Varginha;3;6 a 6,9;5.95;7.38
+312370;MG;Engenheiro Caldas;Governador Valadares;6;5 a 5,9;4.72;7.33
+312380;MG;Engenheiro Navarro;Bocaiúva;6;6 a 6,9;6.33;7.83
+312385;MG;Entre Folhas;Caratinga;6;5 a 5,9;5.61;6.47
+312390;MG;Entre Rios de Minas;Congonhas;4;6 a 6,9;6.23;7.03
+312400;MG;Ervália;Ubá;6;6 a 6,9;6.3;5.72
+312410;MG;Esmeraldas;Betim;4;5 a 5,9;4.08;8.04
+312420;MG;Espera Feliz;Carangola;6;6 a 6,9;6.81;5.43
+312430;MG;Espinosa;Janaúba/Monte Azul;4;5 a 5,9;5.54;6.88
+312440;MG;Espírito Santo do Dourado;Pouso Alegre;5;6 a 6,9;5.78;6.9
+312450;MG;Estiva;Pouso Alegre;5;6 a 6,9;5.69;7.2
+312460;MG;Estrela Dalva;Além  Paraíba;5;5 a 5,9;4.46;6.46
+312470;MG;Estrela do Indaiá;Bom Despacho;5;5 a 5,9;5.39;6.96
+312480;MG;Estrela do Sul;Patrocínio / Monte Carmelo;5;5 a 5,9;4.94;5.89
+312490;MG;Eugenópolis;Muriaé;6;6 a 6,9;6.76;5.7
+312500;MG;Ewbank da Câmara;Juiz de Fora;6;6 a 6,9;6.91;6.45
+312510;MG;Extrema;Pouso Alegre;3;5 a 5,9;5.4;5.65
+312520;MG;Fama;Alfenas / Machado;5;6 a 6,9;5.44;7.66
+312530;MG;Faria Lemos;Carangola;6;6 a 6,9;5.91;7.07
+312540;MG;Felício dos Santos;Diamantina;6;7 a 7,9;6.42;8.72
+312560;MG;Felisburgo;Almenara/Jacinto;6;6 a 6,9;4.96;9
+312570;MG;Felixlândia;Curvelo;5;6 a 6,9;5.5;8.29
+312580;MG;Fernandes Tourinho;Governador Valadares;6;5 a 5,9;4.5;7.57
+312590;MG;Ferros;Itabira;6;6 a 6,9;5.04;8.55
+312595;MG;Fervedouro;Carangola;6;6 a 6,9;6.41;6.45
+312600;MG;Florestal;Betim;5;6 a 6,9;5.79;8.21
+312610;MG;Formiga;Formiga;3;6 a 6,9;5.79;7.15
+312620;MG;Formoso;Unaí;5;4 a 4,9;3.33;8.65
+312630;MG;Fortaleza de Minas;Passos;5;6 a 6,9;6.77;7.46
+312640;MG;Fortuna de Minas;Sete Lagoas;5;7 a 7,9;7.07;8.01
+312650;MG;Francisco Badaró;Araçuaí;6;6 a 6,9;6.05;9.03
+312660;MG;Francisco Dumont;Bocaiúva;6;6 a 6,9;5.97;8.03
+312675;MG;Franciscópolis;Teófilo Otoni / Malacacheta;6;5 a 5,9;4.48;7.78
+312670;MG;Francisco Sá;Francisco Sá;4;6 a 6,9;5.55;7.44
+312680;MG;Frei Gaspar;Itambacuri;6;6 a 6,9;5.25;8.34
+312690;MG;Frei Inocêncio;Governador Valadares;6;6 a 6,9;5.78;7.13
+312695;MG;Frei Lagonegro;Peçanha/São João Evangelista;6;5 a 5,9;4.74;7.82
+312700;MG;Fronteira;Frutal / Iturama;5;4 a 4,9;4.55;5.99
+312705;MG;Fronteira dos Vales;Águas Formosas;6;5 a 5,9;4.79;8.33
+312707;MG;Fruta de Leite;salinas;6;5 a 5,9;4.91;8.27
+312710;MG;Frutal;Frutal / Iturama;3;5 a 5,9;5.2;5.68
+312720;MG;Funilândia;Sete Lagoas;6;7 a 7,9;6.37;8.86
+312730;MG;Galiléia;Governador Valadares;6;4 a 4,9;4.12;6.39
+312733;MG;Gameleiras;Janaúba/Monte Azul;6;5 a 5,9;5.24;7.83
+312735;MG;Glaucilândia;Montes Claros ;6;6 a 6,9;4.85;8.84
+312737;MG;Goiabeira;Resplendor;6;5 a 5,9;4.77;7.57
+312738;MG;Goianá;Juiz de Fora;5;7 a 7,9;6.73;7.89
+312740;MG;Gonçalves;Itajubá;5;6 a 6,9;6.91;7.1
+312750;MG;Gonzaga;Governador Valadares;6;6 a 6,9;5.47;8.5
+312760;MG;Gouveia;Diamantina;6;7 a 7,9;7.22;7.88
+312770;MG;Governador Valadares;Governador Valadares;2;5 a 5,9;4.69;6.83
+312780;MG;Grão Mogol;Francisco Sá;3;6 a 6,9;5.63;8.38
+312790;MG;Grupiara;Patrocínio / Monte Carmelo;5;5 a 5,9;5.87;5.55
+312800;MG;Guanhães;Guanhães;4;6 a 6,9;5.67;8.7
+312810;MG;Guapé;Piumhi;5;6 a 6,9;6.05;6.77
+312820;MG;Guaraciaba;Ponte Nova;6;7 a 7,9;6.97;7.82
+312825;MG;Guaraciama;Bocaiúva;6;7 a 7,9;7.02;8.98
+312830;MG;Guaranésia;Guaxupé;5;6 a 6,9;6.04;6.75
+312840;MG;Guarani;Ubá;5;6 a 6,9;6.3;6.81
+312850;MG;Guarará;São João Nepomuceno / bicas;6;6 a 6,9;5.55;8.24
+312860;MG;Guarda-Mor;Patos de Minas;5;6 a 6,9;5.86;6.59
+312870;MG;Guaxupé;Guaxupé;3;5 a 5,9;4.81;7.03
+312880;MG;Guidoval;Ubá;6;6 a 6,9;7.16;4.99
+312890;MG;Guimarânia;Patos de Minas;5;6 a 6,9;5.83;7.02
+312900;MG;Guiricema;Ubá;6;5 a 5,9;6.26;5.31
+312910;MG;Gurinhatã;Ituiutaba;5;6 a 6,9;6.35;5.88
+312920;MG;Heliodora;Pouso Alegre;5;6 a 6,9;5.35;8.14
+312930;MG;Iapu;Ipatinga;6;6 a 6,9;5.82;7.56
+312940;MG;Ibertioga;Barbacena;4;6 a 6,9;6.71;6.46
+312950;MG;Ibiá;Araxá;5;6 a 6,9;6.06;5.96
+312960;MG;Ibiaí;Pirapora;6;5 a 5,9;4.92;8.28
+312965;MG;Ibiracatu;Brasília de Minas/São Francisco;6;5 a 5,9;4.65;8.52
+312970;MG;Ibiraci;Cassia;5;7 a 7,9;6.3;8.73
+312980;MG;Ibirité;Contagem;3;5 a 5,9;5.1;8.14
+312990;MG;Ibitiúra de Minas;Poços de Caldas;5;6 a 6,9;7.07;6.03
+313000;MG;Ibituruna;São João Del Rei;5;6 a 6,9;6.22;6.91
+313005;MG;Icaraí de Minas;Brasília de Minas/São Francisco;6;6 a 6,9;4.75;9.11
+313010;MG;Igarapé;Betim;5;5 a 5,9;3.93;7.94
+313020;MG;Igaratinga;Pará de Minas;5;5 a 5,9;5.29;6.99
+313030;MG;Iguatama;Formiga;5;6 a 6,9;5.78;6.64
+313040;MG;Ijaci;Lavras;5;6 a 6,9;6.45;6.71
+313050;MG;Ilicínea;Três Pontas;5;6 a 6,9;6.58;6.83
+313055;MG;Imbé de Minas;Caratinga;6;6 a 6,9;5.81;6.75
+313060;MG;Inconfidentes;Pouso Alegre;5;4 a 4,9;4.72;5.36
+313065;MG;Indaiabira;Taiobeiras;6;6 a 6,9;5.55;8.43
+313070;MG;Indianópolis;Uberlândia / Araguari;5;5 a 5,9;5.71;6.32
+313080;MG;Ingaí;Lavras;5;7 a 7,9;6.8;7.87
+313090;MG;Inhapim;Caratinga;4;5 a 5,9;5.71;5.55
+313100;MG;Inhaúma;Sete Lagoas;5;7 a 7,9;6.49;8.62
+313110;MG;Inimutaba;Curvelo;6;7 a 7,9;6.6;8.31
+313115;MG;Ipaba;Ipatinga;6;6 a 6,9;5.82;7.33
+313120;MG;Ipanema;Manhuaçu;6;5 a 5,9;5.4;7.17
+313130;MG;Ipatinga;Ipatinga;2;6 a 6,9;6.49;6.57
+313140;MG;Ipiaçu;Ituiutaba;5;5 a 5,9;5.32;6.54
+313150;MG;Ipuiúna;Pouso Alegre;5;5 a 5,9;5.26;6.23
+313160;MG;Iraí de Minas;Patrocínio / Monte Carmelo;5;5 a 5,9;5.1;6.56
+313170;MG;Itabira;Itabira;3;5 a 5,9;4.56;7.83
+313180;MG;Itabirinha;Mantena;6;5 a 5,9;4.83;6.06
+313190;MG;Itabirito;Ouro Preto;3;5 a 5,9;5.31;6.55
+313200;MG;Itacambira;Montes Claros ;6;6 a 6,9;4.96;9.02
+313210;MG;Itacarambi;Januária;6;6 a 6,9;5.14;9.2
+313220;MG;Itaguara;Itaúna;5;6 a 6,9;6.58;6.45
+313230;MG;Itaipé;Padre Paraíso;6;5 a 5,9;4.52;8.68
+313240;MG;Itajubá;Itajubá;3;5 a 5,9;4.76;7.17
+313250;MG;Itamarandiba;Diamantina;4;6 a 6,9;5.49;7.67
+313260;MG;Itamarati de Minas;Leopoldina / Cataguases;5;6 a 6,9;7.04;6.09
+313270;MG;Itambacuri;Itambacuri;4;5 a 5,9;5.14;7.33
+313280;MG;Itambé do Mato Dentro;Itabira;6;6 a 6,9;5.07;8.33
+313290;MG;Itamogi;São Sebastião do Paraíso;5;7 a 7,9;7.69;6.67
+313300;MG;Itamonte;São Lourenço;5;6 a 6,9;6.76;5.98
+313310;MG;Itanhandu;São Lourenço;5;6 a 6,9;6.73;5.41
+313320;MG;Itanhomi;Governador Valadares;6;5 a 5,9;4.99;7.6
+313330;MG;Itaobim;Itaobim;4;6 a 6,9;5.48;8.28
+313340;MG;Itapagipe;Frutal / Iturama;5;5 a 5,9;5.92;4.95
+313350;MG;Itapecerica;Divinópolis;5;4 a 4,9;5.03;4.82
+313360;MG;Itapeva;Pouso Alegre;5;5 a 5,9;5.04;6.62
+313370;MG;Itatiaiuçu;Itaúna;5;6 a 6,9;6.33;7.47
+313375;MG;Itaú de Minas;Passos;5;6 a 6,9;7.18;6.5
+313380;MG;Itaúna;Itaúna;3;4 a 4,9;3.66;7.46
+313390;MG;Itaverava;Conselheiro Lafaiete;6;6 a 6,9;5.67;7.23
+313400;MG;Itinga;Itaobim;6;5 a 5,9;4.14;8.16
+313410;MG;Itueta;Resplendor;5;6 a 6,9;6.27;6.56
+313420;MG;Ituiutaba;Ituiutaba;3;4 a 4,9;4.34;5.07
+313430;MG;Itumirim;Lavras;6;7 a 7,9;7.02;6.95
+313440;MG;Iturama;Frutal / Iturama;3;5 a 5,9;5.62;4.93
+313450;MG;Itutinga;Lavras;5;6 a 6,9;6.74;6.18
+313460;MG;Jaboticatubas;Belo Horizonte/ Nova Lima/ Caeté ;5;5 a 5,9;5.25;7.26
+313470;MG;Jacinto;Almenara/Jacinto;4;5 a 5,9;5.37;7.41
+313480;MG;Jacuí;São Sebastião do Paraíso;5;7 a 7,9;6.76;7.87
+313490;MG;Jacutinga;Pouso Alegre;5;4 a 4,9;4.24;6.72
+313500;MG;Jaguaraçu;Coronel Fabriciano/Timóteo;5;6 a 6,9;6.03;8.56
+313505;MG;Jaíba;Janaúba/Monte Azul;6;5 a 5,9;4.69;8.1
+313507;MG;Jampruca;Governador Valadares;6;5 a 5,9;4.39;7.15
+313510;MG;Janaúba;Janaúba/Monte Azul;3;6 a 6,9;5.65;8.96
+313520;MG;Januária;Januária;4;2,5 a 3,9;2.15;8.57
+313530;MG;Japaraíba;Lagoa da Prata/Sto Ant do Monte;5;5 a 5,9;5.99;5.56
+313535;MG;Japonvar;Brasília de Minas/São Francisco;6;6 a 6,9;5.27;8.38
+313540;MG;Jeceaba;Congonhas;6;6 a 6,9;6.7;6.77
+313545;MG;Jenipapo de Minas;Araçuaí;6;6 a 6,9;5.94;8.48
+313550;MG;Jequeri;Ponte Nova;6;6 a 6,9;6.22;7.46
+313560;MG;Jequitaí;Coração de Jesus;6;6 a 6,9;5.37;7.97
+313570;MG;Jequitibá;Sete Lagoas;5;7 a 7,9;6.39;9.61
+313580;MG;Jequitinhonha;Almenara/Jacinto;4;6 a 6,9;5.38;8.86
+313590;MG;Jesuânia;São Lourenço;6;5 a 5,9;5.25;7
+313600;MG;Joaíma;Almenara/Jacinto;6;5 a 5,9;4.36;8.83
+313610;MG;Joanésia;Ipatinga;6;6 a 6,9;5.91;8.05
+313620;MG;João Monlevade;João Monlevade;3;5 a 5,9;4.48;8.52
+313630;MG;João Pinheiro;João Pinheiro;3;5 a 5,9;3.87;7.81
+313640;MG;Joaquim Felício;Bocaiúva;6;6 a 6,9;5.43;8.41
+313650;MG;Jordânia;Almenara/Jacinto;6;5 a 5,9;4.89;7.06
+313652;MG;José Gonçalves de Minas;Turmalina/Minas Novas/Capelinha;6;7 a 7,9;6.51;8.23
+313657;MG;Josenópolis;Francisco Sá;6;6 a 6,9;5.3;8.74
+313655;MG;José Raydan;Santa Maria do Suaçuí;6;5 a 5,9;4.48;7.18
+313665;MG;Juatuba;Betim;5;6 a 6,9;5.59;7.28
+313670;MG;Juiz de Fora;Juiz de Fora;1;5 a 5,9;4.72;6.94
+313680;MG;Juramento;Montes Claros ;6;6 a 6,9;5.46;7.98
+313690;MG;Juruaia;Guaxupé;5;5 a 5,9;5.85;5.71
+313695;MG;Juvenília;Manga;6;5 a 5,9;4.2;8.38
+313700;MG;Ladainha;Teófilo Otoni / Malacacheta;6;4 a 4,9;3.74;7.87
+313710;MG;Lagamar;Patos de Minas;5;5 a 5,9;4.72;6.81
+313720;MG;Lagoa da Prata;Lagoa da Prata/Sto Ant do Monte;3;5 a 5,9;5.21;6.13
+313730;MG;Lagoa dos Patos;Coração de Jesus;6;6 a 6,9;4.9;8.87
+313740;MG;Lagoa Dourada;São João Del Rei;5;6 a 6,9;5.99;6.33
+313750;MG;Lagoa Formosa;Patos de Minas;5;7 a 7,9;6.85;7.36
+313753;MG;Lagoa Grande;João Pinheiro;5;5 a 5,9;5.25;7.82
+313760;MG;Lagoa Santa;Vespasiano;3;5 a 5,9;4.74;7.4
+313770;MG;Lajinha;Manhuaçu;5;5 a 5,9;5.73;6.05
+313780;MG;Lambari;São Lourenço;5;5 a 5,9;5.27;6.37
+313790;MG;Lamim;Conselheiro Lafaiete;6;6 a 6,9;7.23;5.96
+313800;MG;Laranjal;Leopoldina / Cataguases;6;6 a 6,9;6.19;5.77
+313810;MG;Lassance;Pirapora;5;6 a 6,9;5.76;8.05
+313820;MG;Lavras;Lavras;3;5 a 5,9;5.6;6.06
+313830;MG;Leandro Ferreira;Pará de Minas;5;5 a 5,9;4.31;7.27
+313835;MG;Leme do Prado;Turmalina/Minas Novas/Capelinha;6;6 a 6,9;6.45;7.71
+313840;MG;Leopoldina;Leopoldina / Cataguases;3;5 a 5,9;5.42;6.34
+313850;MG;Liberdade;Lima Duarte;6;5 a 5,9;4.77;6.05
+313860;MG;Lima Duarte;Lima Duarte;5;6 a 6,9;5.49;8.23
+313862;MG;Limeira do Oeste;Frutal / Iturama;5;4 a 4,9;4.04;5.34
+313865;MG;Lontra;Brasília de Minas/São Francisco;6;5 a 5,9;5.05;7.99
+313867;MG;Luisburgo;Manhuaçu;6;6 a 6,9;6.55;7.55
+313868;MG;Luislândia;Brasília de Minas/São Francisco;6;6 a 6,9;5.21;8.39
+313870;MG;Luminárias;Lavras;5;6 a 6,9;6.85;6.46
+313880;MG;Luz;Bom Despacho;5;7 a 7,9;6.52;8.45
+313890;MG;Machacalis;Águas Formosas;6;5 a 5,9;5.2;7.44
+313900;MG;Machado;Alfenas / Machado;3;5 a 5,9;4.14;7.78
+313910;MG;Madre de Deus de Minas;São João Del Rei;5;6 a 6,9;5.34;7.65
+313920;MG;Malacacheta;Teófilo Otoni / Malacacheta;4;5 a 5,9;4.66;7.67
+313925;MG;Mamonas;Janaúba/Monte Azul;6;5 a 5,9;5.21;7.14
+313930;MG;Manga;Manga;4;6 a 6,9;4.73;9.14
+313940;MG;Manhuaçu;Manhuaçu;3;5 a 5,9;5.07;6.55
+313950;MG;Manhumirim;Manhuaçu;4;6 a 6,9;6.25;7.34
+313960;MG;Mantena;Mantena;4;5 a 5,9;5.44;6.38
+313970;MG;Maravilhas;Sete Lagoas;5;7 a 7,9;6.71;8.4
+313980;MG;Mar de Espanha;São João Nepomuceno / bicas;5;5 a 5,9;5.07;8.18
+313990;MG;Maria da Fé;Itajubá;6;5 a 5,9;5.39;6.62
+314000;MG;Mariana;Ouro Preto;3;5 a 5,9;4.03;7.9
+314010;MG;Marilac;Governador Valadares;6;5 a 5,9;4.93;7.4
+314015;MG;Mário Campos;Betim;5;5 a 5,9;4.07;8.5
+314020;MG;Maripá de Minas;São João Nepomuceno / bicas;6;5 a 5,9;5.53;6.22
+314030;MG;Marliéria;Coronel Fabriciano/Timóteo;6;7 a 7,9;6.9;7.78
+314040;MG;Marmelópolis;Itajubá;6;6 a 6,9;5.43;7.81
+314050;MG;Martinho Campos;Bom Despacho;5;6 a 6,9;6;7.12
+314053;MG;Martins Soares;Manhuaçu;5;6 a 6,9;6.46;7.25
+314055;MG;Mata Verde;Almenara/Jacinto;6;5 a 5,9;4.44;7.51
+314060;MG;Materlândia;Guanhães;6;5 a 5,9;4.83;7.87
+314070;MG;Mateus Leme;Betim;3;5 a 5,9;5.35;6.47
+317150;MG;Mathias Lobato;Governador Valadares;6;5 a 5,9;4.94;6.71
+314080;MG;Matias Barbosa;Juiz de Fora;5;6 a 6,9;6.54;6.7
+314085;MG;Matias Cardoso;Janaúba/Monte Azul;6;6 a 6,9;5.28;9.6
+314090;MG;Matipó;Manhuaçu;4;6 a 6,9;5.92;7.27
+314100;MG;Mato Verde;Janaúba/Monte Azul;6;6 a 6,9;5.35;7.65
+314110;MG;Matozinhos;Vespasiano;3;5 a 5,9;5.63;6.84
+314120;MG;Matutina;São Gotardo;5;6 a 6,9;6.39;6.1
+314130;MG;Medeiros;Formiga;5;5 a 5,9;5.77;6.04
+314140;MG;Medina;Itaobim;4;5 a 5,9;4.96;8.28
+314150;MG;Mendes Pimentel;Mantena;6;5 a 5,9;5.53;6.52
+314160;MG;Mercês;Ubá;6;6 a 6,9;6.26;6.85
+314170;MG;Mesquita;Ipatinga;6;6 a 6,9;6.34;7.92
+314180;MG;Minas Novas;Turmalina/Minas Novas/Capelinha;4;5 a 5,9;4.8;8.15
+314190;MG;Minduri;São Lourenço;6;6 a 6,9;5.99;7.08
+314200;MG;Mirabela;Montes Claros ;4;6 a 6,9;6.57;6.99
+314210;MG;Miradouro;Muriaé;5;6 a 6,9;6.17;5.83
+314220;MG;Miraí;Muriaé;5;6 a 6,9;6.23;6.03
+314225;MG;Miravânia;Manga;6;5 a 5,9;4.35;9.55
+314230;MG;Moeda;Belo Horizonte/ Nova Lima/ Caeté ;5;6 a 6,9;5.48;8.1
+314240;MG;Moema;Bom Despacho;6;6 a 6,9;5.61;8.11
+314250;MG;Monjolos;Curvelo;6;7 a 7,9;7;8.18
+314260;MG;Monsenhor Paulo;Varginha;5;5 a 5,9;4.82;7.29
+314270;MG;Montalvânia;Manga;6;4 a 4,9;3.41;8.49
+314280;MG;Monte Alegre de Minas;Uberlândia / Araguari;5;5 a 5,9;5;6.31
+314290;MG;Monte Azul;Janaúba/Monte Azul;4;5 a 5,9;5.69;6.75
+314300;MG;Monte Belo;Guaxupé;5;5 a 5,9;4.39;6.83
+314310;MG;Monte Carmelo;Patrocínio / Monte Carmelo;3;5 a 5,9;4.56;6.48
+314315;MG;Monte Formoso;Itaobim;6;6 a 6,9;4.76;9.24
+314320;MG;Monte Santo de Minas;São Sebastião do Paraíso;3;7 a 7,9;7.45;6.84
+314330;MG;Montes Claros;Montes Claros ;2;6 a 6,9;6.47;8.26
+314340;MG;Monte Sião;Pouso Alegre;5;5 a 5,9;4.7;6.31
+314345;MG;Montezuma;Taiobeiras;6;6 a 6,9;5.48;8.67
+314350;MG;Morada Nova de Minas;Sete Lagoas;5;6 a 6,9;5.81;8.47
+314360;MG;Morro da Garça;Curvelo;5;7 a 7,9;7.33;7.88
+314370;MG;Morro do Pilar;Itabira;6;5 a 5,9;4.47;7.92
+314380;MG;Munhoz;Pouso Alegre;6;5 a 5,9;5.1;7.44
+314390;MG;Muriaé;Muriaé;2;7 a 7,9;7.72;5.84
+314400;MG;Mutum;Manhuaçu;4;5 a 5,9;5.67;6.63
+314410;MG;Muzambinho;Guaxupé;5;4 a 4,9;3.83;4.5
+314420;MG;Nacip Raydan;Governador Valadares;6;5 a 5,9;3.98;8.05
+314430;MG;Nanuque;Nanuque;4;4 a 4,9;3.96;7.1
+314435;MG;Naque;Ipatinga;6;6 a 6,9;5.47;8.09
+314437;MG;Natalândia;Unaí;6;4 a 4,9;4.04;7.13
+314440;MG;Natércia;Pouso Alegre;5;6 a 6,9;5.92;7.64
+314450;MG;Nazareno;São João Del Rei;5;5 a 5,9;5.2;7.31
+314460;MG;Nepomuceno;Lavras;5;6 a 6,9;5.72;7.22
+314465;MG;Ninheira;Taiobeiras;6;6 a 6,9;5.36;8.88
+314467;MG;Nova Belém;Mantena;6;5 a 5,9;5.26;5.95
+314470;MG;Nova Era;João Monlevade;5;4 a 4,9;3.85;7.77
+314480;MG;Nova Lima;Belo Horizonte/ Nova Lima/ Caeté ;3;6 a 6,9;5.76;7.24
+314490;MG;Nova Módica;Itambacuri;6;6 a 6,9;5.37;7.87
+314500;MG;Nova Ponte;Uberlândia / Araguari;5;5 a 5,9;4.98;6.39
+314505;MG;Nova Porteirinha;Janaúba/Monte Azul;6;6 a 6,9;5.12;8.58
+314510;MG;Nova Resende;Passos;5;5 a 5,9;5.52;6.22
+314520;MG;Nova Serrana;Pará de Minas;3;4 a 4,9;3.84;7.58
+313660;MG;Nova União;Belo Horizonte/ Nova Lima/ Caeté ;6;6 a 6,9;5.78;8.72
+314530;MG;Novo Cruzeiro;Teófilo Otoni / Malacacheta;4;5 a 5,9;4.56;8.32
+314535;MG;Novo Oriente de Minas;Teófilo Otoni / Malacacheta;6;5 a 5,9;4.62;7.79
+314537;MG;Novorizonte;salinas;6;6 a 6,9;5.4;8.33
+314540;MG;Olaria;Lima Duarte;6;6 a 6,9;5.38;9.27
+314545;MG;Olhos-d'Água;Bocaiúva;6;6 a 6,9;5.53;8.08
+314550;MG;Olímpio Noronha;São Lourenço;5;7 a 7,9;7.35;7.09
+314560;MG;Oliveira;Oliveira/Santo Antônio do Amparo;3;6 a 6,9;6.37;8.33
+314570;MG;Oliveira Fortes;Santos Dumont;6;6 a 6,9;6.87;6.98
+314580;MG;Onça de Pitangui;Pará de Minas;5;6 a 6,9;5.77;8.03
+314585;MG;Oratórios;Ponte Nova;5;7 a 7,9;6.87;8.07
+314587;MG;Orizânia;Carangola;6;5 a 5,9;5.27;6.67
+314590;MG;Ouro Branco;Congonhas;3;5 a 5,9;4.76;6.01
+314600;MG;Ouro Fino;Pouso Alegre;3;4 a 4,9;4.04;6.11
+314610;MG;Ouro Preto;Ouro Preto;3;6 a 6,9;5.56;7.91
+314620;MG;Ouro Verde de Minas;Teófilo Otoni / Malacacheta;6;5 a 5,9;4.69;8.35
+314625;MG;Padre Carvalho;salinas;6;5 a 5,9;4.27;8.67
+314630;MG;Padre Paraíso;Padre Paraíso;6;5 a 5,9;5.08;7.3
+314640;MG;Paineiras;Sete Lagoas;5;6 a 6,9;6.6;7.11
+314650;MG;Pains;Formiga;5;5 a 5,9;5.89;6.23
+314655;MG;Pai Pedro;Janaúba/Monte Azul;6;5 a 5,9;4.93;8.06
+314660;MG;Paiva;Barbacena;5;6 a 6,9;6.51;6.31
+314670;MG;Palma;Leopoldina / Cataguases;6;7 a 7,9;7.44;6.13
+314675;MG;Palmópolis;Almenara/Jacinto;6;6 a 6,9;4.72;9.43
+314690;MG;Papagaios;Sete Lagoas;5;6 a 6,9;6.28;8.42
+314700;MG;Paracatu;Unaí;3;4 a 4,9;3.43;7.83
+314710;MG;Pará de Minas;Pará de Minas;3;6 a 6,9;5.85;8.14
+314720;MG;Paraguaçu;Alfenas / Machado;5;5 a 5,9;5.04;7.26
+314730;MG;Paraisópolis;Itajubá;5;5 a 5,9;5.56;5.55
+314740;MG;Paraopeba;Sete Lagoas;3;5 a 5,9;4.33;8.65
+314750;MG;Passabém;Itabira;6;5 a 5,9;5.06;8.07
+314760;MG;Passa Quatro;São Lourenço;3;7 a 7,9;6.85;7.7
+314770;MG;Passa Tempo;Oliveira/Santo Antônio do Amparo;5;6 a 6,9;5.71;7.5
+314780;MG;Passa-Vinte;Lima Duarte;6;5 a 5,9;5.04;7.29
+314790;MG;Passos;Passos;2;6 a 6,9;5.92;8.18
+314795;MG;Patis;Brasília de Minas/São Francisco;6;5 a 5,9;4.9;8.31
+314800;MG;Patos de Minas;Patos de Minas;3;6 a 6,9;5.98;7.55
+314810;MG;Patrocínio;Patrocínio / Monte Carmelo;3;6 a 6,9;5.43;7.81
+314820;MG;Patrocínio do Muriaé;Muriaé;6;6 a 6,9;6.81;5.63
+314830;MG;Paula Cândido;Viçosa;6;7 a 7,9;7.02;7.42
+314840;MG;Paulistas;Peçanha/São João Evangelista;6;5 a 5,9;4.35;8.78
+314850;MG;Pavão;Águas Formosas;6;5 a 5,9;4.66;8.28
+314860;MG;Peçanha;Peçanha/São João Evangelista;6;5 a 5,9;4.06;8.39
+314870;MG;Pedra Azul;Pedra azul;4;6 a 6,9;5.55;9.13
+314875;MG;Pedra Bonita;Carangola;6;5 a 5,9;5.45;6.88
+314880;MG;Pedra do Anta;Viçosa;6;7 a 7,9;6.97;7.29
+314890;MG;Pedra do Indaiá;Lagoa da Prata/Sto Ant do Monte;5;6 a 6,9;5.86;7.1
+314900;MG;Pedra Dourada;Carangola;6;6 a 6,9;6.58;6.31
+314910;MG;Pedralva;Itajubá;5;5 a 5,9;5.16;7.69
+314915;MG;Pedras de Maria da Cruz;Januária;6;5 a 5,9;4.73;7.86
+314920;MG;Pedrinópolis;Araxá;5;5 a 5,9;5.46;5.81
+314930;MG;Pedro Leopoldo;Vespasiano;3;5 a 5,9;5.3;7.22
+314940;MG;Pedro Teixeira;Lima Duarte;6;6 a 6,9;5.88;8.24
+314950;MG;Pequeri;São João Nepomuceno / bicas;5;6 a 6,9;5.46;7.37
+314960;MG;Pequi;Sete Lagoas;5;6 a 6,9;5.89;8
+314970;MG;Perdigão;Divinópolis;5;4 a 4,9;3.9;7.57
+314980;MG;Perdizes;Araxá;5;6 a 6,9;5.95;6.7
+314990;MG;Perdões;Lavras;3;6 a 6,9;7.01;5.65
+314995;MG;Periquito;Ipatinga;6;5 a 5,9;4.83;7.21
+315000;MG;Pescador;Itambacuri;6;6 a 6,9;5.54;7.65
+315010;MG;Piau;Juiz de Fora;5;6 a 6,9;6.21;8.07
+315015;MG;Piedade de Caratinga;Caratinga;6;7 a 7,9;7.17;6.91
+315020;MG;Piedade de Ponte Nova;Ponte Nova;5;5 a 5,9;5.12;7.89
+315030;MG;Piedade do Rio Grande;São João Del Rei;5;6 a 6,9;6.61;7.04
+315040;MG;Piedade dos Gerais;Betim;6;6 a 6,9;5.27;8.11
+315050;MG;Pimenta;Piumhi;5;6 a 6,9;6.44;6.79
+315053;MG;Pingo-d'Água;Coronel Fabriciano/Timóteo;6;5 a 5,9;4.97;7.58
+315057;MG;Pintópolis;Brasília de Minas/São Francisco;6;5 a 5,9;4.4;9.1
+315060;MG;Piracema;Itaúna;5;6 a 6,9;6.46;6.88
+315070;MG;Pirajuba;Frutal / Iturama;5;5 a 5,9;5.27;6.9
+315080;MG;Piranga;Conselheiro Lafaiete;6;6 a 6,9;6.57;7.08
+315090;MG;Piranguçu;Itajubá;6;5 a 5,9;5.21;6.86
+315100;MG;Piranguinho;Itajubá;5;6 a 6,9;5.68;7.15
+315110;MG;Pirapetinga;Além  Paraíba;5;6 a 6,9;7.38;4.91
+315120;MG;Pirapora;Pirapora;3;5 a 5,9;4.85;7.09
+315130;MG;Piraúba;Ubá;6;5 a 5,9;5.73;5.59
+315140;MG;Pitangui;Pará de Minas;3;5 a 5,9;5.96;5.56
+315150;MG;Piumhi;Piumhi;3;7 a 7,9;7.67;6.41
+315160;MG;Planura;Frutal / Iturama;5;5 a 5,9;5.16;6.07
+315170;MG;Poço Fundo;Alfenas / Machado;5;5 a 5,9;5.06;6.32
+315180;MG;Poços de Caldas;Poços de Caldas;3;5 a 5,9;4.84;6.91
+315190;MG;Pocrane;Manhuaçu;6;5 a 5,9;5.2;6.57
+315200;MG;Pompéu;Sete Lagoas;5;6 a 6,9;6.26;8.67
+315210;MG;Ponte Nova;Ponte Nova;3;6 a 6,9;5.58;7.81
+315213;MG;Ponto Chique;Pirapora;6;5 a 5,9;4.68;8.64
+315217;MG;Ponto dos Volantes;Itaobim;6;6 a 6,9;5.21;8.03
+315220;MG;Porteirinha;Janaúba/Monte Azul;4;5 a 5,9;5.03;7.71
+315230;MG;Porto Firme;Viçosa;6;6 a 6,9;6.86;7.31
+315240;MG;Poté;Teófilo Otoni / Malacacheta;6;6 a 6,9;5.3;8.5
+315250;MG;Pouso Alegre;Pouso Alegre;2;5 a 5,9;5.09;6.81
+315260;MG;Pouso Alto;São Lourenço;5;6 a 6,9;7.09;5.41
+315270;MG;Prados;São João Del Rei;5;5 a 5,9;5.05;7.81
+315280;MG;Prata;Uberlândia / Araguari;5;4 a 4,9;4.33;4.84
+315290;MG;Pratápolis;São Sebastião do Paraíso;5;7 a 7,9;7.45;6.5
+315300;MG;Pratinha;Araxá;5;5 a 5,9;5.34;5.81
+315310;MG;Presidente Bernardes;Ubá;6;7 a 7,9;6.77;7.81
+315320;MG;Presidente Juscelino;Curvelo;6;7 a 7,9;6.83;8.46
+315330;MG;Presidente Kubitschek;Diamantina;6;7 a 7,9;7.2;9.1
+315340;MG;Presidente Olegário;Patos de Minas;5;6 a 6,9;5.55;7.98
+315360;MG;Prudente de Morais;Sete Lagoas;6;6 a 6,9;5.54;8.19
+315370;MG;Quartel Geral;Sete Lagoas;5;5 a 5,9;5.28;7.29
+315380;MG;Queluzito;Conselheiro Lafaiete;5;6 a 6,9;6.97;6.79
+315390;MG;Raposos;Belo Horizonte/ Nova Lima/ Caeté ;5;5 a 5,9;4.1;7.41
+315400;MG;Raul Soares;Ponte Nova;4;6 a 6,9;6.02;6.08
+315410;MG;Recreio;Leopoldina / Cataguases;6;5 a 5,9;6.14;5.33
+315415;MG;Reduto;Manhuaçu;6;6 a 6,9;6;7.21
+315420;MG;Resende Costa;São João Del Rei;6;6 a 6,9;5.92;7.43
+315430;MG;Resplendor;Resplendor;4;6 a 6,9;6.27;6.64
+315440;MG;Ressaquinha;Barbacena;5;6 a 6,9;5.88;6.38
+315445;MG;Riachinho;Unaí;6;5 a 5,9;4.11;7.86
+315450;MG;Riacho dos Machados;Janaúba/Monte Azul;6;5 a 5,9;4.99;8.31
+315460;MG;Ribeirão das Neves;Belo Horizonte/ Nova Lima/ Caeté ;4;5 a 5,9;4.73;8.51
+315470;MG;Ribeirão Vermelho;Lavras;5;6 a 6,9;6.66;6.73
+315480;MG;Rio Acima;Belo Horizonte/ Nova Lima/ Caeté ;5;6 a 6,9;5.87;7.23
+315490;MG;Rio Casca;Ponte Nova;6;5 a 5,9;5.04;8.04
+315500;MG;Rio Doce;Ponte Nova;6;6 a 6,9;5.5;7.41
+315510;MG;Rio do Prado;Almenara/Jacinto;6;6 a 6,9;5.25;9.31
+315520;MG;Rio Espera;Conselheiro Lafaiete;6;5 a 5,9;5.16;6.89
+315530;MG;Rio Manso;Betim;5;6 a 6,9;5.97;8.3
+315540;MG;Rio Novo;Juiz de Fora;6;6 a 6,9;6.26;8.49
+315550;MG;Rio Paranaíba;São Gotardo;5;4 a 4,9;4.04;5.96
+315560;MG;Rio Pardo de Minas;Taiobeiras;4;6 a 6,9;5.6;7.84
+315570;MG;Rio Piracicaba;João Monlevade;5;5 a 5,9;4.28;7.61
+315580;MG;Rio Pomba;Ubá;3;6 a 6,9;6.19;7.33
+315590;MG;Rio Preto;Lima Duarte;6;6 a 6,9;6.69;6.63
+315600;MG;Rio Vermelho;Guanhães;6;5 a 5,9;4.25;8.38
+315610;MG;Ritápolis;São João Del Rei;6;6 a 6,9;6.41;7.19
+315620;MG;Rochedo de Minas;São João Nepomuceno / bicas;5;5 a 5,9;5.67;6.51
+315630;MG;Rodeiro;Ubá;5;6 a 6,9;7.09;4.78
+315640;MG;Romaria;Patrocínio / Monte Carmelo;5;5 a 5,9;5.18;5.93
+315645;MG;Rosário da Limeira;Muriaé;6;7 a 7,9;6.86;7.49
+315650;MG;Rubelita;salinas;6;6 a 6,9;5.42;8.42
+315660;MG;Rubim;Almenara/Jacinto;6;6 a 6,9;5.24;8.43
+315670;MG;Sabará;Belo Horizonte/ Nova Lima/ Caeté ;3;4 a 4,9;3.36;7.8
+315680;MG;Sabinópolis;Guanhães;4;6 a 6,9;6.09;7.42
+315690;MG;Sacramento;Uberaba;3;6 a 6,9;6.37;7.14
+315700;MG;Salinas;salinas;4;5 a 5,9;4.7;7.57
+315710;MG;Salto da Divisa;Almenara/Jacinto;6;5 a 5,9;4.93;7.16
+315720;MG;Santa Bárbara;Itabira;5;6 a 6,9;5.86;7.46
+315725;MG;Santa Bárbara do Leste;Caratinga;6;6 a 6,9;6.07;6.93
+315727;MG;Santa Bárbara do Monte Verde;Lima Duarte;6;5 a 5,9;5.06;7.91
+315730;MG;Santa Bárbara do Tugúrio;Barbacena;6;5 a 5,9;5.37;6.89
+315733;MG;Santa Cruz de Minas;São João Del Rei;6;5 a 5,9;4.22;7.39
+315737;MG;Santa Cruz de Salinas;salinas;6;6 a 6,9;5.15;8.91
+315740;MG;Santa Cruz do Escalvado;Ponte Nova;6;6 a 6,9;5.46;8.33
+315750;MG;Santa Efigênia de Minas;Governador Valadares;6;5 a 5,9;4.42;8.56
+315760;MG;Santa Fé de Minas;Pirapora;6;5 a 5,9;4.81;8.21
+315765;MG;Santa Helena de Minas;Águas Formosas;6;5 a 5,9;4.77;8.11
+315770;MG;Santa Juliana;Araxá;5;5 a 5,9;5.11;5.95
+315780;MG;Santa Luzia;Belo Horizonte/ Nova Lima/ Caeté ;3;4 a 4,9;3.62;7.81
+315790;MG;Santa Margarida;Manhuaçu;6;6 a 6,9;5.96;6.88
+315800;MG;Santa Maria de Itabira;Itabira;6;5 a 5,9;4.94;7.84
+315810;MG;Santa Maria do Salto;Almenara/Jacinto;6;5 a 5,9;4.6;7.42
+315820;MG;Santa Maria do Suaçuí;Santa Maria do Suaçuí;4;4 a 4,9;3.67;8.11
+315830;MG;Santana da Vargem;Três Pontas;5;6 a 6,9;6.46;7.06
+315840;MG;Santana de Cataguases;Leopoldina / Cataguases;6;6 a 6,9;6.6;5.97
+315850;MG;Santana de Pirapama;Sete Lagoas;6;6 a 6,9;5.98;9.03
+315860;MG;Santana do Deserto;Juiz de Fora;5;6 a 6,9;5.79;8.67
+315870;MG;Santana do Garambéu;Barbacena;6;6 a 6,9;5.62;7.27
+315880;MG;Santana do Jacaré;Campo Belo;6;5 a 5,9;5.65;6.71
+315890;MG;Santana do Manhuaçu;Manhuaçu;6;5 a 5,9;5.28;7.38
+315895;MG;Santana do Paraíso;Ipatinga;5;5 a 5,9;5.33;7.37
+315900;MG;Santana do Riacho;Vespasiano;6;6 a 6,9;5.12;8.98
+315910;MG;Santana dos Montes;Conselheiro Lafaiete;6;5 a 5,9;5.51;6.4
+315920;MG;Santa Rita de Caldas;Poços de Caldas;5;5 a 5,9;5.99;5.99
+315940;MG;Santa Rita de Ibitipoca;Barbacena;6;5 a 5,9;5.15;7.24
+315930;MG;Santa Rita de Jacutinga;Lima Duarte;6;5 a 5,9;5.18;6.69
+315935;MG;Santa Rita de Minas;Caratinga;5;6 a 6,9;6.67;7.11
+315950;MG;Santa Rita do Itueto;Resplendor;6;5 a 5,9;4.91;6.65
+315960;MG;Santa Rita do Sapucaí;Pouso Alegre;3;5 a 5,9;4.72;6.23
+315970;MG;Santa Rosa da Serra;São Gotardo;5;5 a 5,9;5.12;7.05
+315980;MG;Santa Vitória;Ituiutaba;5;5 a 5,9;5.07;5.55
+315990;MG;Santo Antônio do Amparo;Oliveira/Santo Antônio do Amparo;3;6 a 6,9;7.08;6.4
+316000;MG;Santo Antônio do Aventureiro;Além  Paraíba;5;6 a 6,9;6.44;6.57
+316010;MG;Santo Antônio do Grama;Ponte Nova;5;7 a 7,9;7.02;7.92
+316020;MG;Santo Antônio do Itambé;Serro;6;7 a 7,9;6.84;9.09
+316030;MG;Santo Antônio do Jacinto;Almenara/Jacinto;6;5 a 5,9;4.46;7.6
+316040;MG;Santo Antônio do Monte;Lagoa da Prata/Sto Ant do Monte;3;6 a 6,9;6.45;6.03
+316045;MG;Santo Antônio do Retiro;Taiobeiras;6;5 a 5,9;4.96;8.06
+316050;MG;Santo Antônio do Rio Abaixo;Itabira;6;5 a 5,9;4.98;7.97
+316060;MG;Santo Hipólito;Curvelo;6;6 a 6,9;5.93;8.1
+316070;MG;Santos Dumont;Santos Dumont;3;5 a 5,9;4.34;6.75
+316080;MG;São Bento Abade;Três Corações;6;7 a 7,9;6.38;8.68
+316090;MG;São Brás do Suaçuí;Congonhas;5;5 a 5,9;5.04;6.42
+316095;MG;São Domingos das Dores;Caratinga;6;6 a 6,9;6.98;6.15
+316100;MG;São Domingos do Prata;João Monlevade;5;5 a 5,9;5.78;6.33
+316105;MG;São Félix de Minas;Mantena;6;6 a 6,9;6.32;6.96
+316110;MG;São Francisco;Brasília de Minas/São Francisco;4;5 a 5,9;4.52;9.24
+316120;MG;São Francisco de Paula;Oliveira/Santo Antônio do Amparo;6;6 a 6,9;6;8.17
+316130;MG;São Francisco de Sales;Frutal / Iturama;5;5 a 5,9;5.57;6.99
+316140;MG;São Francisco do Glória;Muriaé;6;6 a 6,9;7.54;5.61
+316150;MG;São Geraldo;Ubá;6;5 a 5,9;5.79;5.06
+316160;MG;São Geraldo da Piedade;Governador Valadares;6;5 a 5,9;5.05;8.33
+316165;MG;São Geraldo do Baixio;Governador Valadares;6;4 a 4,9;3.97;7.15
+316170;MG;São Gonçalo do Abaeté;Patos de Minas;5;6 a 6,9;5.73;7.81
+316180;MG;São Gonçalo do Pará;Divinópolis;5;5 a 5,9;5.06;8.21
+316190;MG;São Gonçalo do Rio Abaixo;Itabira;5;6 a 6,9;5.8;7.46
+312550;MG;São Gonçalo do Rio Preto;Diamantina;6;7 a 7,9;6.91;8.72
+316200;MG;São Gonçalo do Sapucaí;Varginha;3;4 a 4,9;4.19;6.71
+316210;MG;São Gotardo;São Gotardo;3;4 a 4,9;4.14;5.59
+316220;MG;São João Batista do Glória;Passos;5;7 a 7,9;7.83;8.16
+316225;MG;São João da Lagoa;Coração de Jesus;6;6 a 6,9;5.54;8.63
+316230;MG;São João da Mata;Pouso Alegre;5;6 a 6,9;6.33;6.44
+316240;MG;São João da Ponte;Brasília de Minas/São Francisco;4;6 a 6,9;5.68;7.91
+316245;MG;São João das Missões;Manga;6;5 a 5,9;4.41;9.21
+316250;MG;São João del Rei;São João Del Rei;3;5 a 5,9;4.5;7.05
+316255;MG;São João do Manhuaçu;Manhuaçu;6;5 a 5,9;5.21;7.06
+316257;MG;São João do Manteninha;Mantena;6;5 a 5,9;4.95;6.21
+316260;MG;São João do Oriente;Ipatinga;6;6 a 6,9;5.93;6.69
+316265;MG;São João do Pacuí;Coração de Jesus;6;5 a 5,9;4.89;8.55
+316270;MG;São João do Paraíso;Taiobeiras;4;6 a 6,9;5.54;8.42
+316280;MG;São João Evangelista;Peçanha/São João Evangelista;6;5 a 5,9;4.43;8.61
+316290;MG;São João Nepomuceno;São João Nepomuceno / bicas;4;5 a 5,9;5.28;6.02
+316292;MG;São Joaquim de Bicas;Betim;5;6 a 6,9;5.31;8.41
+316294;MG;São José da Barra;Passos;5;7 a 7,9;7.21;8.15
+316295;MG;São José da Lapa;Vespasiano;5;6 a 6,9;5.28;8.51
+316300;MG;São José da Safira;Governador Valadares;6;5 a 5,9;4.5;7.98
+316310;MG;São José da Varginha;Pará de Minas;5;6 a 6,9;6.11;8.59
+316320;MG;São José do Alegre;Itajubá;5;5 a 5,9;5.09;7.92
+316330;MG;São José do Divino;Itambacuri;6;5 a 5,9;5.29;7
+316340;MG;São José do Goiabal;Ponte Nova;6;6 a 6,9;6.27;8.46
+316350;MG;São José do Jacuri;Peçanha/São João Evangelista;6;5 a 5,9;3.8;8.56
+316360;MG;São José do Mantimento;Manhuaçu;6;6 a 6,9;6.34;7.34
+316370;MG;São Lourenço;São Lourenço;3;6 a 6,9;6.75;5.68
+316380;MG;São Miguel do Anta;Viçosa;6;6 a 6,9;5.98;7.47
+316390;MG;São Pedro da União;Guaxupé;5;6 a 6,9;6.82;7.4
+316400;MG;São Pedro dos Ferros;Ponte Nova;6;5 a 5,9;5.53;7.02
+316410;MG;São Pedro do Suaçuí;Peçanha/São João Evangelista;6;5 a 5,9;4.56;7.48
+316420;MG;São Romão;Brasília de Minas/São Francisco;6;5 a 5,9;4.43;9.05
+316430;MG;São Roque de Minas;Piumhi;5;6 a 6,9;6.55;6.84
+316440;MG;São Sebastião da Bela Vista;Pouso Alegre;5;6 a 6,9;5.55;7.76
+316443;MG;São Sebastião da Vargem Alegre;Muriaé;6;6 a 6,9;6.66;6.08
+316447;MG;São Sebastião do Anta;Caratinga;6;6 a 6,9;6.4;6.35
+316450;MG;São Sebastião do Maranhão;Santa Maria do Suaçuí;6;4 a 4,9;2.72;8.36
+316460;MG;São Sebastião do Oeste;Divinópolis;5;5 a 5,9;5.32;6.73
+316470;MG;São Sebastião do Paraíso;São Sebastião do Paraíso;3;6 a 6,9;5.71;7.84
+316480;MG;São Sebastião do Rio Preto;Itabira;6;5 a 5,9;5;7.11
+316490;MG;São Sebastião do Rio Verde;São Lourenço;6;6 a 6,9;6.79;5.83
+316520;MG;São Thomé das Letras;Três Corações;5;5 a 5,9;5.1;7.88
+316500;MG;São Tiago;São João Del Rei;5;5 a 5,9;4.98;6.22
+316510;MG;São Tomás de Aquino;São Sebastião do Paraíso;5;6 a 6,9;6.19;8.5
+316530;MG;São Vicente de Minas;São João Del Rei;5;5 a 5,9;5.34;6.54
+316540;MG;Sapucaí-Mirim;Itajubá;5;6 a 6,9;5.59;7.85
+316550;MG;Sardoá;Governador Valadares;6;5 a 5,9;4.81;8.06
+316553;MG;Sarzedo;Contagem;5;6 a 6,9;5.34;8.09
+316556;MG;Sem-Peixe;Ponte Nova;6;6 a 6,9;6.71;6.46
+316557;MG;Senador Amaral;Pouso Alegre;5;5 a 5,9;4.83;7.08
+316560;MG;Senador Cortes;São João Nepomuceno / bicas;6;6 a 6,9;6.15;8.18
+316570;MG;Senador Firmino;Ubá;6;5 a 5,9;5.92;5.32
+316580;MG;Senador José Bento;Pouso Alegre;5;6 a 6,9;6.86;6.82
+316590;MG;Senador Modestino Gonçalves;Diamantina;6;6 a 6,9;6.2;8.29
+316600;MG;Senhora de Oliveira;Conselheiro Lafaiete;6;6 a 6,9;6.55;7.14
+316610;MG;Senhora do Porto;Guanhães;6;6 a 6,9;5.56;9.08
+316620;MG;Senhora dos Remédios;Barbacena;6;5 a 5,9;5.33;7.31
+316630;MG;Sericita;Ponte Nova;6;5 a 5,9;5.38;7.08
+316640;MG;Seritinga;São Lourenço;5;6 a 6,9;6.72;6.19
+316650;MG;Serra Azul de Minas;Serro;6;6 a 6,9;5.52;8.85
+316660;MG;Serra da Saudade;Bom Despacho;5;6 a 6,9;5.64;7.76
+316670;MG;Serra dos Aimorés;Nanuque;6;5 a 5,9;4.29;7.79
+316680;MG;Serra do Salitre;Patos de Minas;5;5 a 5,9;5.34;7.39
+316690;MG;Serrania;Alfenas / Machado;5;6 a 6,9;6.05;6.47
+316695;MG;Serranópolis de Minas;Janaúba/Monte Azul;6;5 a 5,9;5.01;8.33
+316700;MG;Serranos;São Lourenço;6;6 a 6,9;6.87;7.07
+316710;MG;Serro;Serro;4;7 a 7,9;6.13;9.35
+316720;MG;Sete Lagoas;Sete Lagoas;3;5 a 5,9;4.37;8.33
+316555;MG;Setubinha;Teófilo Otoni / Malacacheta;6;5 a 5,9;3.88;8.96
+316730;MG;Silveirânia;Ubá;6;7 a 7,9;7.62;7
+316740;MG;Silvianópolis;Pouso Alegre;5;6 a 6,9;6.09;7.6
+316750;MG;Simão Pereira;Juiz de Fora;6;7 a 7,9;7.19;8.37
+316760;MG;Simonésia;Manhuaçu;6;6 a 6,9;5.78;7.94
+316770;MG;Sobrália;Governador Valadares;6;5 a 5,9;4.42;7.95
+316780;MG;Soledade de Minas;São Lourenço;5;6 a 6,9;6.19;5.95
+316790;MG;Tabuleiro;Ubá;6;7 a 7,9;7.36;7.42
+316800;MG;Taiobeiras;Taiobeiras;4;6 a 6,9;6.25;7.77
+316805;MG;Taparuba;Manhuaçu;6;5 a 5,9;5.58;6.96
+316810;MG;Tapira;Araxá;5;5 a 5,9;5.95;5.13
+316820;MG;Tapiraí;Formiga;5;6 a 6,9;6.1;6.94
+316830;MG;Taquaraçu de Minas;Belo Horizonte/ Nova Lima/ Caeté ;6;5 a 5,9;4.58;8.85
+316840;MG;Tarumirim;Governador Valadares;6;5 a 5,9;5.08;6.81
+316850;MG;Teixeiras;Viçosa;5;6 a 6,9;7.1;5.97
+316860;MG;Teófilo Otoni;Teófilo Otoni / Malacacheta;4;4 a 4,9;3.95;7.53
+316870;MG;Timóteo;Coronel Fabriciano/Timóteo;3;5 a 5,9;5.48;7.05
+316880;MG;Tiradentes;São João Del Rei;5;5 a 5,9;5.17;5.92
+316890;MG;Tiros;São Gotardo;5;5 a 5,9;5.25;6.77
+316900;MG;Tocantins;Ubá;5;5 a 5,9;5.83;5.91
+316905;MG;Tocos do Moji;Pouso Alegre;5;5 a 5,9;5.41;6.66
+316910;MG;Toledo;Pouso Alegre;5;5 a 5,9;5.1;7.54
+316920;MG;Tombos;Carangola;5;6 a 6,9;7.42;5.34
+316930;MG;Três Corações;Três Corações;3;5 a 5,9;5.43;6.57
+316935;MG;Três Marias;Curvelo;3;6 a 6,9;5.55;7.25
+316940;MG;Três Pontas;Três Pontas;3;5 a 5,9;5.33;7.49
+316950;MG;Tumiritinga;Governador Valadares;6;5 a 5,9;4.51;7.78
+316960;MG;Tupaciguara;Uberlândia / Araguari;3;4 a 4,9;3.98;5.33
+316970;MG;Turmalina;Turmalina/Minas Novas/Capelinha;4;7 a 7,9;7.13;7.86
+316980;MG;Turvolândia;Pouso Alegre;5;6 a 6,9;6.07;7.71
+316990;MG;Ubá;Ubá;3;5 a 5,9;5.7;4.7
+317000;MG;Ubaí;Brasília de Minas/São Francisco;6;5 a 5,9;4.94;8.45
+317005;MG;Ubaporanga;Caratinga;6;5 a 5,9;5.79;6.2
+317010;MG;Uberaba;Uberaba;2;6 a 6,9;6.58;6.23
+317020;MG;Uberlândia;Uberlândia / Araguari;1;5 a 5,9;5.48;4.93
+317030;MG;Umburatiba;Águas Formosas;6;6 a 6,9;6.28;8.09
+317040;MG;Unaí;Unaí;3;4 a 4,9;3.24;6.6
+317043;MG;União de Minas;Frutal / Iturama;5;5 a 5,9;5.31;6.06
+317047;MG;Uruana de Minas;Unaí;6;5 a 5,9;4.22;7.61
+317050;MG;Urucânia;Ponte Nova;5;6 a 6,9;5.65;8.07
+317052;MG;Urucuia;Brasília de Minas/São Francisco;6;5 a 5,9;3.83;8.66
+317057;MG;Vargem Alegre;Caratinga;6;6 a 6,9;6.33;7.93
+317060;MG;Vargem Bonita;Piumhi;5;6 a 6,9;6.81;7.18
+317065;MG;Vargem Grande do Rio Pardo;Taiobeiras;6;6 a 6,9;5.48;8.56
+317070;MG;Varginha;Varginha;2;5 a 5,9;5.5;5.86
+317075;MG;Varjão de Minas;Patos de Minas;5;6 a 6,9;5.34;7.8
+317080;MG;Várzea da Palma;Pirapora;3;5 a 5,9;5.27;7.18
+317090;MG;Varzelândia;Brasília de Minas/São Francisco;6;5 a 5,9;5.16;8.02
+317100;MG;Vazante;Patos de Minas;5;6 a 6,9;6.22;6.2
+317103;MG;Verdelândia;Janaúba/Monte Azul;6;6 a 6,9;5.21;8.97
+317107;MG;Veredinha;Turmalina/Minas Novas/Capelinha;6;6 a 6,9;6.41;8.3
+317110;MG;Veríssimo;Uberaba;5;6 a 6,9;6.18;6.21
+317115;MG;Vermelho Novo;Caratinga;6;6 a 6,9;6.13;7.03
+317120;MG;Vespasiano;Vespasiano;3;5 a 5,9;4.38;8.33
+317130;MG;Viçosa;Viçosa;3;5 a 5,9;5.61;6.57
+317140;MG;Vieiras;Muriaé;6;7 a 7,9;7.08;7.25
+317160;MG;Virgem da Lapa;Araçuaí;6;6 a 6,9;5.05;8.67
+317170;MG;Virgínia;São Lourenço;6;6 a 6,9;6.29;5.65
+317180;MG;Virginópolis;Guanhães;6;6 a 6,9;5;8.6
+317190;MG;Virgolândia;Governador Valadares;6;7 a 7,9;6.48;8.66
+317200;MG;Visconde do Rio Branco;Ubá;3;6 a 6,9;6.61;5.25
+317210;MG;Volta Grande;Além  Paraíba;5;5 a 5,9;5.07;6.85
+317220;MG;Wenceslau Braz;Itajubá;6;6 a 6,9;5.68;7.43
